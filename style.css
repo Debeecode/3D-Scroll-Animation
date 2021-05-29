@@ -1,3 +1,9 @@
+.overlay {
+  background-color: rgba(0, 0, 0, 0.459);
+  margin: 0;
+  padding: 0;
+}
+
 main {
   position: absolute;
   display: flex;
@@ -9,13 +15,12 @@ main {
   font-family: "Montserrat Alternates", sans-serif;
   color: rgb(230, 221, 238);
   z-index: 99;
-  background-color: rgba(0, 0, 0, 0.459);
 }
 
 header,
 h3,
 p {
-  padding: 3rem 1.5rem;
+  padding: 3rem 0.9rem 0;
 }
 
 canvas {
