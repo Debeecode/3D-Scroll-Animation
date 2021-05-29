@@ -4,9 +4,10 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   margin: auto;
   line-height: 2rem;
-  padding: 10rem;
+  padding: 5rem 3rem;
   font-family: "Montserrat Alternates", sans-serif;
   color: rgb(230, 221, 238);
   z-index: 99;
