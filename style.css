@@ -1,7 +1,6 @@
 .overlay {
   background-color: rgba(0, 0, 0, 0.459);
-  margin: 0;
-  padding: 0;
+  height: 100%;
 }
 
 main {
@@ -20,11 +19,12 @@ main {
 header,
 h3,
 p {
-  padding: 3rem 0.9rem 0;
+  padding: 1.5rem 0.9rem 0;
 }
 
 canvas {
   position: fixed;
   top: 0;
   left: 0;
+  height: 100%;
 }
