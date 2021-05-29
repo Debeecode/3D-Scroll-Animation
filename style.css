@@ -1,0 +1,20 @@
+main {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  line-height: 2rem;
+  padding: 10rem;
+  font-family: "Montserrat Alternates", sans-serif;
+  color: rgb(230, 221, 238);
+  z-index: 99;
+  background-color: rgba(0, 0, 0, 0.459);
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
